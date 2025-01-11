@@ -1,0 +1,10 @@
+ID,Player_Name,Gender,Age,Area,Correct_answer,Wrong_answer,Score,Mode
+1002,Rishika,F,23,Chennai,2,8,0,Easy
+1345,Rohan,M,27,Shimla,14,6,250,Medium
+3421,Aayat,F,39,Noida,6,4,100,Easy
+7685,Amandeep,,37,Ghaziabad,31,19,525,Brutal
+6547,Sarah,F,26,Meerut,28,7,525,Hard
+6474,Preeti,F,34,Noida,18,2,350,Medium
+3920,Lucas,M,32,Lucknow,26,9,475,Hard
+1110,Faizan,M,19,Ghaziabad,39,11,725,Brutal
+2008,Yash,M,20,Bulandsheher,0,0,0,
